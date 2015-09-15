@@ -1,2 +1,2 @@
-# iTunes-U-Assignments-1-2
+# iTunes-U-Assignments-1
 IOS Class Assignment
